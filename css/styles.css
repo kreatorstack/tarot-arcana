@@ -417,7 +417,7 @@ header p {
 /* ── Click hint ── */
 
 .card-wrapper.flipped .card-face::after {
-     content: 'toque para revelar';
+     content: '...';
      position: absolute;
      bottom: 56px;
      left: 0;
